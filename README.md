@@ -15,5 +15,5 @@ Junior college student at Gyeongsang National University
 
 <h2>🔎 Anything else</h3>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=estar0808&show_icons=true&bg_color=FFFFFF&title_color=6799FF&text_color=000000&icon_color=6799FF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iconic0808&show_icons=true&bg_color=FFFFFF&title_color=6799FF&text_color=000000&icon_color=6799FF"/>
 </div>
