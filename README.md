@@ -2,7 +2,7 @@
 
 <h2>🤷‍♂️ Who am I?</h3>      
 <p>
-Junior college student at Gyeongsang National University
+Senior student at Gyeongsang National University
 <br/>Majoring in Computer Science
 <br/>Currently studying to be an Android Developer
 </p>
