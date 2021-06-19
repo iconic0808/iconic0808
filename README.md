@@ -13,8 +13,3 @@ Senior student at Gyeongsang National University
 <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-blue?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 </p>
-
-<h2>🔎 Anything else</h3>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=iconic0808&show_icons=true&bg_color=FFFFFF&title_color=6799FF&text_color=000000&icon_color=6799FF"/>
-</div>
